@@ -1,2 +1,3 @@
-This is my first wev development project.
-It is a replica of the google homepage and its built using html and CSS.
+- This is my first wev development project.
+- It is a replica of the google homepage and its built using html and CSS.
+- Live preview: https://marriagav.github.io/google-homepage
